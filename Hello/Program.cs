@@ -9,6 +9,7 @@ namespace Hello
             Console.WriteLine(Hello());
         }
 
+
         public static string Hello() 
 	{
             return "Hello, World!";

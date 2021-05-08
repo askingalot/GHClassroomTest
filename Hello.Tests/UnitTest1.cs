@@ -9,7 +9,7 @@ namespace Hello.Tests
         public void Hello_Returns_HelloWorld()
         {
             Assert.Equal("Hello, World!", Program.Hello());
-            Assert.True(true);
+            Assert.True(!false);
         }
     }
 }

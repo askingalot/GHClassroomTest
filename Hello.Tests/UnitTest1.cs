@@ -10,6 +10,7 @@ namespace Hello.Tests
         {
             Assert.Equal("Hello, World!", Program.Hello());
             Assert.True(!!true);
+
         }
     }
 }
